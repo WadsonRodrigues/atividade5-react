@@ -1,0 +1,31 @@
+.folter {
+    display: flex;
+    height: 500px;
+}
+
+.folter img{
+    max-width: 100%;
+}
+
+.redes {
+    position: absolute;
+    Display: flex; 
+    Justify-content: center;
+    align-items:center;
+    Gap: 20px;
+    left: 150px;
+    padding-top: 250px;
+}
+
+h5{
+    position: absolute;
+    left: 1500px;
+    color: white;
+    justify-content: end;
+    padding-top: 250px;
+    font-size: 15px;
+}
+
+
+
+
